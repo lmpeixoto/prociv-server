@@ -1,124 +1,22 @@
-{
-    "rows": [
-        {
-            "key": "010000",
-            "value": {
-                "name": "AVEIRO"
-            }
-        },
-        {
-            "key": "020000",
-            "value": {
-                "name": "BEJA"
-            }
-        },
-        {
-            "key": "030000",
-            "value": {
-                "name": "BRAGA"
-            }
-        },
-        {
-            "key": "040000",
-            "value": {
-                "name": "BRAGANÇA"
-            }
-        },
-        {
-            "key": "050000",
-            "value": {
-                "name": "CASTELO BRANCO"
-            }
-        },
-        {
-            "key": "060000",
-            "value": {
-                "name": "COIMBRA"
-            }
-        },
-        {
-            "key": "070000",
-            "value": {
-                "name": "ÉVORA"
-            }
-        },
-        {
-            "key": "080000",
-            "value": {
-                "name": "FARO"
-            }
-        },
-        {
-            "key": "090000",
-            "value": {
-                "name": "GUARDA"
-            }
-        },
-        {
-            "key": "100000",
-            "value": {
-                "name": "LEIRIA"
-            }
-        },
-        {
-            "key": "110000",
-            "value": {
-                "name": "LISBOA"
-            }
-        },
-        {
-            "key": "120000",
-            "value": {
-                "name": "PORTALEGRE"
-            }
-        },
-        {
-            "key": "130000",
-            "value": {
-                "name": "PORTO"
-            }
-        },
-        {
-            "key": "140000",
-            "value": {
-                "name": "SANTARÉM"
-            }
-        },
-        {
-            "key": "150000",
-            "value": {
-                "name": "SETÚBAL"
-            }
-        },
-        {
-            "key": "160000",
-            "value": {
-                "name": "VIANA DO CASTELO"
-            }
-        },
-        {
-            "key": "170000",
-            "value": {
-                "name": "VILA REAL"
-            }
-        },
-        {
-            "key": "180000",
-            "value": {
-                "name": "VISEU"
-            }
-        },
-        {
-            "key": "300000",
-            "value": {
-                "name": "MADEIRA"
-            }
-        },
-        {
-            "key": "400000",
-            "value": {
-                "name": "AÇORES"
-            }
-        }
-    ]
-}
+[
+    ['code', '010000', 'name', 'AVEIRO'],
+    ['code', '020000', 'name', 'BEJA'],
+    ['code', '030000', 'name', 'BRAGA'],
+    ['code', '040000', 'name', 'BRAGANÇA'],
+    ['code', '050000', 'name', 'CASTELO BRANCO'],
+    ['code', '060000', 'name', 'COIMBRA'],
+    ['code', '070000', 'name', 'ÉVORA'],
+    ['code', '080000', 'name', 'FARO'],
+    ['code', '090000', 'name', 'GUARDA'],
+    ['code', '100000', 'name', 'LEIRIA'],
+    ['code', '110000', 'name', 'LISBOA'],
+    ['code', '120000', 'name', 'PORTALEGRE'],
+    ['code', '130000', 'name', 'PORTO'],
+    ['code', '140000', 'name', 'SANTARÉM'],
+    ['code', '150000', 'name', 'SETÚBAL'],
+    ['code', '160000', 'name', 'VIANA DO CASTELO'],
+    ['code', '170000', 'name', 'VILA REAL'],
+    ['code', '180000', 'name', 'VISEU'],
+    ['code', '300000', 'name', 'MADEIRA'],
+    ['code', '400000', 'name', 'AÇORES']
+];
